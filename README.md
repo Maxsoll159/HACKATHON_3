@@ -1,6 +1,6 @@
-# HACKATHON_3
-ESTA ES LA HACKTHON NUMERO 3
-PREGUNTAS:
+# HACKATHON_3<br>
+ESTA ES LA HACKTHON NUMERO 3<br>
+PREGUNTAS:<br>
 1-.¿Para qué sirve la validación de formularios?<br>
     La validadcion de formularios sirve para que cuando usuario este ingresando su datos, este pueda verificar y garantizar
     que toda la informacion ingresada coincida con todos los requisitos establecidos en los diversos controles de formulario
