@@ -1,0 +1,31 @@
+.sobre {
+    padding: 16px;
+    background-color: lightblue;
+    margin:auto;
+    text-align:center;
+}
+.skills {
+    background-color: mediumorchid;
+    padding: 16px;
+    margin:auto;
+}
+.cols {
+    column-count: 4;
+    
+}
+.portas {
+    background-color: yellow;
+    column-count: 4;
+}
+.clis {
+    background-color: blue;
+    column-count: 4;
+}
+.prues {
+    background-image: url("../IMG/fot1.jpg");
+    padding: 100px;
+      width: 50%;
+      height: 50%;
+      margin:auto;
+      text-align:center;
+}
