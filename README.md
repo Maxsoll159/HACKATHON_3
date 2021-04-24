@@ -1,7 +1,7 @@
 # HACKATHON_3
 ESTA ES LA HACKTHON NUMERO 3
 PREGUNTAS:
-1-.¿Para qué sirve la validación de formularios?
+1-.¿Para qué sirve la validación de formularios?<br>
     La validadcion de formularios sirve para que cuando usuario este ingresando su datos, este pueda verificar y garantizar
     que toda la informacion ingresada coincida con todos los requisitos establecidos en los diversos controles de formulario
     , ademas tambien nos ayuda a proteger los datos de los usuarios.
@@ -9,13 +9,13 @@ PREGUNTAS:
 
 
 
-2-.¿Cuáles son los problemas al no validar un formulario?
+2-.¿Cuáles son los problemas al no validar un formulario?<br>
     Los problemas que pueden surgir al no validar un formulario serian, envio de informacion erronea a la base datos, y asi
     nuestra aplicacion pueda funcionar mal a un largo plazo, informacion del usuario no protegida.
 
 
 
-3-.¿Cuáles son los beneficios?
+3-.¿Cuáles son los beneficios?<br>
     Algunos beneficios que puede ofrecer las validacion de formularios son:
     -OBTENER LOS DATOS CORRECTOS Y EL FORMATO CORRECTO: Nuestras aplicaciones no funcionarán correctamente si los datos de nuestros 
     usuarios se almacenan en el formato incorrecto, son incorrectos o se omiten por completo.
